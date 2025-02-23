@@ -2,7 +2,7 @@
 
 # App Send Mail
 
-> A simple application where we can send emails
+A simple application where we can send emails
 
 ## License
 
